@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clothers>
+	<clother>
+		<id>std001</id>
+		<jeans>Red</jeans>
+		<shirt>Small</shirt>
+		<coat>Medium</coat>
+	</clother>
+<clother>
+<id>SUP00001</id>
+<shirt>HK</shirt>
+<jeans>bjkhHJ</jeans>
+</clother>
+</clothers>
